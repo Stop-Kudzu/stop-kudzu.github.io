@@ -1,1 +1,20 @@
 theme: jekyll-theme-cayman
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Stopping The Kudzu Invasion</title>
+</head>
+<body>
+
+<h1>Stopping The Kudzu Invasion</h1>
+
+  <h2>KUDZU IS DESTROYING YOUR TREES. WILL YOU STOP IT?</h2>
+  <h3><em>What is Kudzu?</em>
+<p>Kudzu is a vine that originally came from Asia but settled well into many ecosystems here in the USA. It lives by grabbing onto a larger plant, and using it to gain sunlight. In doing so, the Kudzu eventually smothers its host tree, killing it.<br> </p>
+    <h3><em>How To Stop It</em><h3>
+      <p>Kudzu, though hardy, can be harvested using sharp implements. A problem with cutting kudzu is that it can regrow extremely fast, as much as one foot in a single day.</p>
+      <img src="https://commons.m.wikimedia.org/wiki/File:Kudzu_on_trees_in_Atlanta,_Georgia.jpg#mw-jump-to-license" alt="An image of Kudzu leaves and vine">
+</body>
+</html>
